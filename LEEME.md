@@ -16,11 +16,9 @@ El mismo `index.html` sirve para las dos pruebas:
 - Exportar e importar por código funcionan.
 - `persist()` fue **denegada** en una pestaña común de Chrome. Es lo esperable: Chrome la concede a sitios instalados o con mucho uso. Hay que verlo instalado.
 
-## Publicar en GitHub Pages
+## Publicado
 
-1. Crear un repositorio **público** (por ejemplo `asistente-e3-prototipo`) y subir el contenido de esta carpeta a la raíz de `main`.
-2. Settings › Pages › Source: "Deploy from a branch", `main`, `/ (root)`.
-3. El link queda `https://<usuario>.github.io/asistente-e3-prototipo/`.
+https://manuelfalcao.github.io/asistente-e3-prototipo/ (GitHub Pages desde `main`, raíz).
 
 ## Pruebas en dispositivos
 

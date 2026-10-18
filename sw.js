@@ -1,5 +1,5 @@
 // PROTOTIPO descartable. Para probar una actualización, cambiar VERSION acá Y en index.html.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = 'asistente-e3-proto-' + VERSION;
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
